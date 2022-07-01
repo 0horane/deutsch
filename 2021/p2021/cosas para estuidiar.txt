@@ -1,0 +1,68 @@
+
+	Test
+	1. Hören
+	2. Grammatik
+18	 1. Präteritum (regelmäßige und unregelmäßige Verben)
+	 2. Konjunktionen
+11	  1. Nebensätze: da, weil, obwohl,
+11	  2. Hauptsatz
+6	   1. trotzdem, deshalb,
+	   2. Position null: aber, oder, denn, und
+7	 3. Infinitiv mit zu
+	  1. Verben (hoffen, verbieten, versuchen, empfehlen, )
+	  2. Es ist + Adjektiv
+	  3. haben + Substantiv
+	  4. NICHT bei Modalverben (Ich kann machen.)
+5	 4. Genitiv													
+26	 5. Verben mit Präpositionen (denken an + Akk., denken über+Akk.)
+	  1. Fragewörter wo(r):
+	   1. Woran denkst du?
+	   2. An wen denkst du?
+27	  2. Präpositionalpronomen da(r):
+	   1. Ich denke daran.
+	   2. Ich denke an dich
+	3. Einen Brief schreiben (Anrede und Gruß nicht vergessen)
+9, 21	 1. informell: Hallo / Liebe(r) ......, wie geht es dir?
+	 2. formell: Sehr geehrte(r) Herr/Frau Schetsche / Sehr geehrte Damen und Herren, ich habe ein Problem.
+	 3. informell: Viele Grüße / Liebe Grüße / Schöne Grüß
+	 4. formell: Mit freundlichen Grüßen
+
+
+13 Adjektive Declination
+
+
+AKK and DAT: Akkusativ is a direct object, the noun or that’s receiving the action of the verb. An indirect object is an optional part of a sentence; it's the recipient of an action. In the sentence “Jake gave me some cereal,” the word “me” is the indirect object;
+
+Definiten Artikel
+Nom:	der das die die
+Akk: 	den das die die
+Dat:	dem dem der den
+Gen:	des des der der
+
+
+ADJEKTIVE NACH DEM DEFINITEN ARTIKEL Der, Dem, Die, etc
+Nom:	-e  -e  -e  -en
+Akk:	-en -e  -e  -en
+Dat:	-en -en -en -en
+Gen:	-en -en -en -en    sustantiv mit -s ob maskulin oder neuter
+
+ADJEKTIVE NACH DEM INDEFINITEN ARTIKEL ein, einem, eine, ect
+Nom:	-er -es -e  -e 
+Akk:	-en -es -e  -e 
+Dat:	-en -en -en -en
+
+(nom;akk;dat)=(jemand;jemanden;jemandem)
+
+
+vorbei- cant find, breifly visiting
+weg- moving towards a different place
+weiter- continue, not stopping
+zurück- come back, returning
+
+akk
+streiten/denken/informieren/freuen/sprechen über 
+erinnern/glauben/denken/sich entscheiden an
+zeit haben/interessieren/sich entscheiden für
+sich entscheiden gegen
+lust haben/warten auf
+
