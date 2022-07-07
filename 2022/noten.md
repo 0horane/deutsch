@@ -1088,6 +1088,7 @@ wertvollen: valuable
 gepäck: baggage
 tatsälich: indeed
 
+#####Je...desto
 **Je+Komp _____ , Desto+Komparattiv _____**
 nebensatz bei je, hauptsatz bei desto
 
@@ -1145,3 +1146,105 @@ erweitert/ entwickelt: extend/developed
 
 **BEDEUTEN: MEANING**
 **MEINEN: OPINION**
+
+verstehen: to understand
+verstanden: udnerstood.
+
+vorkentnisse
+
+
+1/7
+
+entwickelt 
+weder noch 
+ausgeschlossen
+begrenzen
+vorschlägen
+abstimmen
+währung
+bestrafen
+die Rat des unions
+aufenthalt
+Fähig
+
+leisten
+weiterentwickeln
+födern
+sammeln
+bewerben
+anerkennen
+unterstützt
+Betreuer
+
+Erfolg 
+sparsam
+ausgebildet
+entscheidung
+
+
+developed
+neither nor
+excluded
+limit
+propose
+decide by vote
+currency
+punish
+the council of the union
+stay
+Able to
+
+Afford
+develop
+promote
+collect
+apply
+recognize
+supports
+supervisor
+
+success
+thrifty
+educated
+decision
+
+
+vorschlag: proposal (alternative to idee)
+
+Verwenden:use
+beendingubng: ending, termination
+
+verdreifachen
+vervierfachen
+versechsfacken
+100-fach steigern
+
+
+##AKK vs DAT prepositions
+####akk
+ - durch: durch die Länder
+ - um/herum: um die seen herum
+ - entlang: den fluss entlang (nach akk sustantiv)
+####dat
+gegenüber dem hotel
+aus bei nach von zu: aus deutschland, von Sachsen nach Frankrechich, bei Berlin, zum See
+####whohin->akk wo->dat
+an, auf, hinter, in, neben, über, unter, vor, zwischen
+Wir fahren an meer
+Wir sind am meer.
+
+
+In total : in summe
+
+
+Traumen-> von
+
+zelten~= campen
+
+
+zwar.. aber: true, but
+
+
+**THE SAME**
+derselbe
+dieselbe
