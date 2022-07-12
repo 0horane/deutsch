@@ -1248,3 +1248,13 @@ zwar.. aber: true, but
 **THE SAME**
 derselbe
 dieselbe
+
+
+was ist hier los: whats going on here
+
+
+gleichwertig: equivalent
+
+
+**EXPLAIN: ERKLÄREN**
+
