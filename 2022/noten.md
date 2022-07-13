@@ -1258,3 +1258,54 @@ gleichwertig: equivalent
 
 **EXPLAIN: ERKLÄREN**
 
+
+In that case, I’ll come.
+In diesem Fall komme ich
+
+fall bedeutet  nicht nur "fall", sondern auch auch "case",
+
+
+
+
+## Weather if and Condiction if
+in romance languages and english use a single word for both meanings. These words are "si" and "if"
+
+ob=weather (either / or)
+
+falls/wenn = condition if
+1. falls is grounded in the present and reality. It does NOT work for impossible or unlikely “if”s
+2. falls is skeptical
+3. falls just doesn’t sound very good with conditional forms of verbs
+
+Falls /wenn Thomas wusste, dass Maria das Buch braucht, dann hat er es auf jeden Fall mit zur Uni genommen.
+
+I will go if he goes
+ich werde gehen, wenn er geht.
+
+I don't know If he will go.
+ich weiss night ob er gehen wird.
+
+
+
+
+## So 
+Wo?            Da!
+Where?    There!
+There itself means nothing. It is the most generic answer you could give to where?.
+And so is this for how. How is the question that asks for manner or style and while in English, the generic answer is that way or like that, in German you just say so.
+
+Wie?       So!
+How?    That way/like that!
+
+it also functions as an intensifier:
+es ist SO groß!
+
+and a split version of sodass:
+es ist so klein, dass es ...
+
+
+##Als
+when i was 3..
+**ALS** Ich 3 war... (NICH WANN)
+
+Wann kommst du?
