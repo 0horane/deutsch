@@ -74,6 +74,14 @@ even though
 
 # vor und nach
 
+<<<<<<< HEAD
+=======
+###Obwohl
+despite
+obwohl pia keine keit hat, bacht sie sport.
+
+#vor und nach
+>>>>>>> 3d3fbcf (jej)
 ###nachdem
 Er frühstückt. Dann geht er zur Arbeit.
 -> Nachdem er gefrühstückt hat, geht er zur Arbeit.
@@ -118,10 +126,15 @@ Ich lerne Deutsch, deswegen gehe ich in die Sprachschule.
 darüm auch bedeutet "around it": Wir sahen den Bahnhof, also standen wir darum.
 ### dafür
 
+<<<<<<< HEAD
 ###  statt/ohne dass
 statt dass oder statt zu
 
 ### ob
+=======
+###statt/ohne dass
+###ob
+>>>>>>> 3d3fbcf (jej)
 if, wheather
 
 ### wenn

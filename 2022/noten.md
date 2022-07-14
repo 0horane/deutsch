@@ -1397,6 +1397,7 @@ In die wirklichkeit
 
 verwechselt: confounded, confused between
 
+#gleich und derselbe
 Im Deutschen werden derselbe/dieselbe/dasselbe und der/die/das gleiche oft verwechselt, selbst Muttersprachler haben damit Probleme.
 
 **EIN UND DASSELBE**: one and the same
@@ -1427,3 +1428,16 @@ Wie geht es dir? Entschuldigung, dass ich das erste Termin verpasst habe. Ich ko
 Bis nachste Woche,
 
 Leandro
+
+
+# Temporale Präpositionen
+###akk
+um
+bis
+###gen
+während
+###dat
+alle anderen
+am,nach,in,zwischen,vor,zum,von..bis,seit,ab
+
+
