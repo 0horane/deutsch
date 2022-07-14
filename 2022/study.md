@@ -64,6 +64,10 @@ Konjunktion
 
 ###Trotz
 ###trotzdem
+konjunktion
+: Despite
+Der urlaub war kurz, trotzdem bin ich jetzt entspannt.
+
 ###um... zu
 ###Deshalb
 ###deswegen
@@ -72,6 +76,8 @@ Konjunktion
 ###statt/ohne dass
 ###Obwohl
 ###ob
+if, wheather
+
 ###wenn
 ### nicht nur... sondern auch
 ### sowohl... aus auch

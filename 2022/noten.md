@@ -1335,3 +1335,62 @@ How the hell did you get HER phone number?
 Ich bin jetzt größer denn als Kind.
 
 ####denn je: than ever
+
+
+--
+brücke: bridge
+
+Die Frauebrücke
+
+Ich verbringe bei frankfurt im weg zur heidelberg. Verbringen : pasar por
+
+Gasthaus: restaurant
+Meine Onkel ist der Eigentümer eines Gasthaus
+
+Es ist nicht so gefährlich, alleine zu reisen, weil ich schon 17 Jahren alt bin.
+
+Der wichstigte 	Bestandteil in eine küche ist die Mehl, die basis für alles anders. Flour
+Einverstanden! : de acuerdo
+
+Ich würde dort überall hingehen., aber ich nicht genug zeit habe.
+picknik
+
+Welche verhehrsmittel liebst du besser?
+Ich ziehe die rädfahrrer vor.
+
+vorhaben:
+ich habe nicht vor, die ganze tag zu wandern. : tener planificado
+vorschlagen: proponer:
+Ich schlage vor , nur getränke mitzunehmen.
+
+(auf)laden: cargar
+Ich muss der ajju meines handys aufladen, bevor es leer werdet.
+
+Ich erkundige mich über die kultur in diese land.
+
+Ich wundere: surprised, in a weird way.
+Das hat mir gewundert, denn es ist nich so normall.
+
+Münze: moneda, distinto tipo de moneda.
+
+Es gibt keine Zöllen in die grenzen in EU.
+
+
+Per zufall: by chance
+Per zug: by train
+
+besträfen: fine
+Wenn mann in einem verboten parkingplatz parkt, werden sie besträfen.
+
+Richter/in: lawyer
+
+Der rihter kennt alle Gesetze. 
+
+Wir leben in einer ~~gemeinschaft~~ gesellshaft.
+
+sparsam: adjektivform von Sparen 
+
+abstimmen ~= auswahlen
+
+Wirklichkeit: realidad
+In die wirklichkeit 
