@@ -39,19 +39,11 @@ similar to the previous ojne
 Ich wiederhole noch einmal langsam, sodass Sie mitschreiben können.
 
 
+
 ###dann
 : the, in that case
-#denn
-: derselbe meinung als weil, aber kann nur am ende der satz sthen und ist nicht so normall.
-Ich esse eine Pizza, denn ich bin hungrig
 
-###nachdem
-Er frühstückt. Dann geht er zur Arbeit.
--> Nachdem er gefrühstückt hat, geht er zur Arbeit.
-
-###bevor
-Er frühstückt. Dann geht er zur Arbeit.
--> Bevor er zur Arbeit geht, frühstückt er.
+#because
 
 ###Weil
 
@@ -59,20 +51,54 @@ Ich esse eine Pizza, *weil ich Hunger habe*.
 *Weil ich Hunger habe*, esse ich eine Pizza.
 Ich esse, *weil ich Hunger habe*, eine Pizza.
 
-###Damit
+###Da == weil
+
+###denn
+: derselbe meinung als weil, aber kann nur am ende der satz sthen und ist nicht so normall.
+Ich esse eine Pizza, denn ich bin hungrig
+
+
+#vor und nach
+###nachdem
+Er frühstückt. Dann geht er zur Arbeit.
+-> Nachdem er gefrühstückt hat, geht er zur Arbeit.
+###Seitdem
+Seitdem ich einen Hund gabe, fühle ich nie Alleine
+###bevor
+Er frühstückt. Dann geht er zur Arbeit.
+-> Bevor er zur Arbeit geht, frühstückt er.
+
+
+##In order to
+Finalsätze
+####Damit
+Different subjects
 Konjunktion
+Sofia fährt in Urlaub, damit ihre Sprachkenntnisse besser werden
+Auch mit derselbe subjekt, aber es ist nich so normall
+Sofia fährt in den Urlaub, damit sie sich erholt. 
+
+
+####um... zu
+Same subjects
+Sofia fährt in den Urlaub, um sich zu erholen
+
 
 ###Trotz
+
+
 ###trotzdem
 konjunktion
 : Despite
 Der urlaub war kurz, trotzdem bin ich jetzt entspannt.
 
-###um... zu
-###Deshalb
-###deswegen
+
+###Deshalb = deswegen = darüm = Daher
+Ich lerne Deutsch, deswegen gehe ich in die Sprachschule.
+
+darüm also bedeutet "around it": Wir sahen den Bahnhof, also standen wir darum.
 ###dafür
-###darüm
+
 ###statt/ohne dass
 ###Obwohl
 ###ob
@@ -85,6 +111,9 @@ if, wheather
 
 
 ### wahrend
+during
+fast immer genitiv (wenn es mit eine Zeitspanne Sustantiv verwendet ist)
+wahrend des Trainings..
 
 
 ###aber
@@ -106,3 +135,7 @@ an identical object
 
 #Bewegungverben nutzen immer akkusativ
 Ich fahre auf den Campingplatz
+
+
+https://yourdailygerman.com/nutzen-benutzen-difference/
+https://german.yabla.com/lesson-Using%C2%A0w%C3%A4hrend-846

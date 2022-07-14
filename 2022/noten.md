@@ -1394,3 +1394,24 @@ abstimmen ~= auswahlen
 
 Wirklichkeit: realidad
 In die wirklichkeit 
+
+
+verwechselt: confounded, confused between
+
+Im Deutschen werden derselbe/dieselbe/dasselbe und der/die/das gleiche oft verwechselt, selbst Muttersprachler haben damit Probleme.
+
+**EIN UND DASSELBE**: one and the same
+
+bahnhof: train station
+
+ausdrückt: express (as in a phrase)
+
+
+###nutzen verwenden, benutzen , Gebrauchen
+all mean to use
+
+Gebrauch ist die **Seltenste**.
+Vor Gebrauch **schütteln**. : shake before use
+
+
+related: **Genosse**: co-user, comrade ; **genießen**: o enjoy
