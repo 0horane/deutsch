@@ -42,10 +42,26 @@ Ich wiederhole noch einmal langsam, sodass Sie mitschreiben können.
 ###dann
 : the, in that case
 #denn
+: derselbe meinung als weil, aber kann nur am ende der satz sthen und ist nicht so normall.
+Ich esse eine Pizza, denn ich bin hungrig
+
 ###nachdem
+Er frühstückt. Dann geht er zur Arbeit.
+-> Nachdem er gefrühstückt hat, geht er zur Arbeit.
+
 ###bevor
+Er frühstückt. Dann geht er zur Arbeit.
+-> Bevor er zur Arbeit geht, frühstückt er.
+
 ###Weil
+
+Ich esse eine Pizza, *weil ich Hunger habe*.
+*Weil ich Hunger habe*, esse ich eine Pizza.
+Ich esse, *weil ich Hunger habe*, eine Pizza.
+
 ###Damit
+Konjunktion
+
 ###Trotz
 ###trotzdem
 ###um... zu

@@ -38,7 +38,7 @@ vorsetzen : promise
    
 plan != intention  
 
-The future tense can be used to express an assumption in the present tense:  
+##The future tense can be used to express an assumption in the present tense:  
 Wahrschienlich werde ich dabei sein.
 Vorsatz = plan   
 Versprechen : promise  
@@ -1290,6 +1290,7 @@ ich weiss night ob er gehen wird.
 
 ## So 
 Wo?            Da!
+Wann?			Dann!
 Where?    There!
 There itself means nothing. It is the most generic answer you could give to where?.
 And so is this for how. How is the question that asks for manner or style and while in English, the generic answer is that way or like that, in German you just say so.
@@ -1309,3 +1310,28 @@ when i was 3..
 **ALS** Ich 3 war... (NICH WANN)
 
 Wann kommst du?
+
+The reason: die grund
+
+grund nennen
+
+
+##denn
+####Wass denn?
+less  harch way of saying what?
+Hey, ich muss dir was zeigen.
+“Was denn.”
+“Hey, I gotta show you something.”
+“Oh what ? /What is it?”
+
+
+Wo ist denn eigentlich meine Brille?
+Oh by the way,  where are my glasses?
+
+Wie hast du denn nur  IHRE Telefonnummer gekriegt?
+How the hell did you get HER phone number?
+
+####als als -> denn als
+Ich bin jetzt größer denn als Kind.
+
+####denn je: than ever
