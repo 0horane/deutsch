@@ -1,77 +1,93 @@
-#connectors
+# connectors
 
-###Weder... noch
+### Weder... noch
 : neither nor
-###Entweder... oder
+### Entweder... oder
 : either... or 
  Der Klimaschutz ist ein dringendes Thema. Entweder wir handeln bald, oder wir bekommen groβe Probleme.
-###am... entlang
-: along the
-###um... herum
 
-###an... vorbei
-
-###Zwar... aber
+### Zwar... aber
 : true... but
 Ich setze mich zwar für den Tierschutz ein,  aber ich esse trotzdem fisch und fleisch	
 
-###Je... desto
+## positions
+(immer dativ)
+### am... entlang
+: along the
+### um... herum
+:up to and around
+### an... vorbei
+: pass by
+
+
+
+#  Je... desto
 : the x, the y 
 (**je** mehr, **desto** besser: the more, the better)
 cannot be reversed in order.
-#using, by, through that
+# using, by, through that
 
-###indem
+### indem
 : "while, by doing
 Konjunktion
 **indem** er sprach, öffnete sich die Tür
 er hat viel Geld sparen können, **indem** er einen Teil der Arbeit selbst gemacht hat
 
-###Dadurch
+### Dadurch
 : thereby, through means of 
 Adverb
 es gibt nur eine Tür, dadurch muss jeder gehen, der den Raum betritt
 er hat sich dadurch selbst geschadet
 similar to the previous ojne
 
-###sodass
+### sodass
 : enough that (so that) //not necessarily consequential
 Ich wiederhole noch einmal langsam, sodass Sie mitschreiben können.
 
 
 
-###dann
+### dann
 : the, in that case
 
-#because
+### Anstatt Zu
+Ich studiere deutsch, anstatt zu gefrüstucken
+Anstatt heute, gehen wir morgen
 
-###Weil
+
+# because
+
+### Weil
 
 Ich esse eine Pizza, *weil ich Hunger habe*.
 *Weil ich Hunger habe*, esse ich eine Pizza.
 Ich esse, *weil ich Hunger habe*, eine Pizza.
 
-###Da == weil
+### Da == weil
 
-###denn
+### denn
 : derselbe meinung als weil, aber kann nur am ende der satz sthen und ist nicht so normall.
 Ich esse eine Pizza, denn ich bin hungrig
 
+### Obwohl
+: gegen vin weil
+even though
 
-#vor und nach
+# vor und nach
+
 ###nachdem
 Er frühstückt. Dann geht er zur Arbeit.
 -> Nachdem er gefrühstückt hat, geht er zur Arbeit.
-###Seitdem
+Nachdem muss die verb differenzieren. zb. Präsens perfekt/pluskuamperfekt
+### Seitdem
 Seitdem ich einen Hund gabe, fühle ich nie Alleine
-###bevor
+### bevor
 Er frühstückt. Dann geht er zur Arbeit.
 -> Bevor er zur Arbeit geht, frühstückt er.
 
 
-##In order to
+## In order to
 Finalsätze
-####Damit
+#### Damit
 Different subjects
 Konjunktion
 Sofia fährt in Urlaub, damit ihre Sprachkenntnisse besser werden
@@ -79,32 +95,36 @@ Auch mit derselbe subjekt, aber es ist nich so normall
 Sofia fährt in den Urlaub, damit sie sich erholt. 
 
 
-####um... zu
+#### um... zu
 Same subjects
 Sofia fährt in den Urlaub, um sich zu erholen
 
 
-###Trotz
+### Trotz
+: despite of 
+23) Ich bin  wegen meinem Ehemann nach Hamburg gezogen.
+###wegen
 
 
-###trotzdem
+### trotzdem
 konjunktion
 : Despite
 Der urlaub war kurz, trotzdem bin ich jetzt entspannt.
 
 
-###Deshalb = deswegen = darüm = Daher
+### Deshalb = deswegen = darüm = Daher
 Ich lerne Deutsch, deswegen gehe ich in die Sprachschule.
 
-darüm also bedeutet "around it": Wir sahen den Bahnhof, also standen wir darum.
-###dafür
+darüm auch bedeutet "around it": Wir sahen den Bahnhof, also standen wir darum.
+### dafür
 
-###statt/ohne dass
-###Obwohl
-###ob
+###  statt/ohne dass
+statt dass oder statt zu
+
+### ob
 if, wheather
 
-###wenn
+### wenn
 ### nicht nur... sondern auch
 ### sowohl... aus auch
 :diesen bedeutet die gleiche
@@ -116,7 +136,7 @@ fast immer genitiv (wenn es mit eine Zeitspanne Sustantiv verwendet ist)
 wahrend des Trainings..
 
 
-###aber
+### aber
 :but
 Konjunktion
 ich würde zum die ganzen welt reisen, aber es zu teuer ist
@@ -124,18 +144,24 @@ ich würde zum die ganzen welt reisen, aber es zu teuer ist
 
 
 
-#Comparisons
+# Comparisons
 
-###derselbe
+### derselbe
 er fährt dasselbe (besser: das gleiche) Auto wie ich
 the same object
 
-###der gleiche
+### der gleiche
 an identical object
 
-#Bewegungverben nutzen immer akkusativ
+# Bewegungverben nutzen immer akkusativ
 Ich fahre auf den Campingplatz
 
 
 https://yourdailygerman.com/nutzen-benutzen-difference/
 https://german.yabla.com/lesson-Using%C2%A0w%C3%A4hrend-846
+https://de.slideshare.net/cgrobert83/verben-mitdativundakkusativ
+
+der das die die er es e e
+den das die die en s  e e 
+dem dem der den em em er en
+des des der der es es e e

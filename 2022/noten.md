@@ -654,7 +654,6 @@ die Dachspitze
 Die frau und seine kinder sind immer laut, und nich nur am abends. 
 
 Sie soll nicht nur mit der kullegen sprechen sprechen,, soundern acuh mit siene chefin/chef/management
-
 sie eollte entweder uber ihre meinung sprachen oder knofrontieren sie  uber siene striet
 
 sie soll weder kundigen noch nicht sprechen uber diese situazion
@@ -798,7 +797,7 @@ naturkunden museum
 
 sie hast am berlin museums besucht, aber wir haben nicht genug 
 
-wir haben nicht genug zeit, um dass zu übersprechen
+wir haben nicht genug zeit, über dass zu sprechen
 
 IN DER NAHE VON
 ERINNEREN REMEMBER
@@ -1415,3 +1414,16 @@ Vor Gebrauch **schütteln**. : shake before use
 
 
 related: **Genosse**: co-user, comrade ; **genießen**: o enjoy
+
+
+ein peso ist 250 euro wert
+
+
+
+Lieber Herr Weber,
+
+Wie geht es dir? Entschuldigung, dass ich das erste Termin verpasst habe. Ich konnte diese Tag nicht kommen, weil ich leider eine große Umfall von der Räd hatte. Ich habe mich dann verletzten, deshalb habe ich gedacht, dass es eine schlechte Idee war, auf eine Bewerbungklass zu gehen. Ich höffe, dass du mich verstehst. 
+
+Bis nachste Woche,
+
+Leandro
