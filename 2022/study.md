@@ -178,3 +178,35 @@ der das die die er es e e
 den das die die en s  e e 
 dem dem der den em em er en
 des des der der es es e e
+
+
+Wegen
+Aufgrund
+Dank
+Trotz
+Während
+Innerhalb
+Außerhalb
+Einerseits... Anderseits
+: Einerseits hat mir der Job gut gefallen, anderseits brauche ich immer neue Herausforderung.
+
+Außerdem
+: Besides
+Allerdings
+: However
+
+im vergleich zum
+
+
+Im abschnitt 2 wird... dargestellt
+
+daraus ergibt sich die oben genannte erste Frage, nämlich....,  die en Abschnitt 2 beantwortet ist
+Der text kommt nun zu der zweiten Frage, nämlich
+
+
+Laut einen anderen studie...
+
+Der vorliegende text mit dem titel...
+der text mit dem titel... beschäftigt sich mit dem Thema
+
+
